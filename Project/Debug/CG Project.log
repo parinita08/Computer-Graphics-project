@@ -1,0 +1,53 @@
+﻿  CG Project.cpp
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(8,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(8,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(9,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(9,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(9,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(65,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(78,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(96,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(114,20): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(122,20): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(123,20): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(129,20): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(138,20): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(148,20): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(149,20): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(150,20): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(156,20): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(165,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(304,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(322,30): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(322,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(324,30): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(324,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(333,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(344,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(353,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(384,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(416,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(444,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(485,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(517,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(538,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(570,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(643,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(645,11): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(654,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(656,11): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(664,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(666,11): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(677,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(679,11): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(722,11): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(723,11): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(729,11): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(730,11): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(731,11): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(745,11): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(746,11): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(747,11): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(826,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\vedan\source\repos\CG Project\CG Project.cpp(826,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  CG Project.vcxproj -> C:\Users\vedan\source\repos\CG Project\Debug\CG Project.exe
